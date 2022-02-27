@@ -1,3 +1,3 @@
-# DashNFT
+# Covalent Quests
 
-Gitcoin Bounty for CovalentHQ
+Gitcoin Bounties for CovalentHQ
