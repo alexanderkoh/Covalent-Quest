@@ -7,11 +7,11 @@ In this project, we will create a step-by-step tutorial for anyone to get starte
 
 #### Analyst Mode Tutorial:
 
-https://docs.google.com/presentation/d/1yUL5qzoOv3ad19Bfk7qsbpX58jVTEGA7gONcwikuowI/edit#slide=id.g1122946039d_0_41
+https://docs.google.com/presentation/d/1yUL5qzoOv3ad19Bfk7qsbpX58jVTEGA7gONcwikuowI/edit?usp=sharing
 
 #### Interactive Experience:
 
-https://docs.google.com/spreadsheets/d/12_o7qfbCIKXok9nM5sn0KagrzXLuCbj2SMKJr3fuRss/edit#gid=16934650
+https://docs.google.com/spreadsheets/d/12_o7qfbCIKXok9nM5sn0KagrzXLuCbj2SMKJr3fuRss/edit?usp=sharing
 
 ---
 
