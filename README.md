@@ -16,3 +16,5 @@ https://docs.google.com/spreadsheets/d/12_o7qfbCIKXok9nM5sn0KagrzXLuCbj2SMKJr3fu
 ---
 
 #### NFT Analysis Dashboard:
+
+https://docs.google.com/spreadsheets/d/1PLYB3ySQ50Zi5xiZWGDrJMyzkq8XxBXy1wf0awFmopE/edit?usp=sharing
